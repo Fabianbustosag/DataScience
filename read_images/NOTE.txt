@@ -1,0 +1,4 @@
+falta efectividad en la lectura
+
+Dockerizar imagen
+https://hub.docker.com/r/jitesoft/tesseract-ocr/
