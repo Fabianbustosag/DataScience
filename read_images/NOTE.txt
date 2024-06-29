@@ -2,3 +2,8 @@ falta efectividad en la lectura
 
 Dockerizar imagen
 https://hub.docker.com/r/jitesoft/tesseract-ocr/
+
+faltan cosas como:
+- que se pueda leer el documento completo y seleccionar solo los codigos de barra
+- mejorar la precision de la prediccion de los datos
+- en la presentacion explicar cuales son los datos que podemos extraer de la API
